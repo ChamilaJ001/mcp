@@ -1,0 +1,71 @@
+{ 
+"id": 1, 
+"category": "Visitors", 
+"title": "Guest Policy", 
+"rule": "Guests must be registered and cannot stay longer than 7 consecutive days.", 
+"description": "Report any damages immediately. Repair costs will be deducted from the responsible 
+party." 
+}, 
+{ 
+"id": 2, 
+"category": "Noise Control", 
+"title": "Quiet Hours", 
+"rule": "Residents must maintain low noise levels between 10:00 PM and 7:00 AM.", 
+"description": "Avoid loud music, parties, or activities that disturb other residents during quiet hours." 
+}, 
+{ 
+"id": 3, 
+"category": "Cleanliness", 
+"title": "Common Area Cleanliness", 
+"rule": "All residents must keep shared areas clean and organized.", 
+"description": "Dispose of waste properly and clean up after using common facilities." 
+}, 
+{ 
+"id": 4, 
+"category": "Parking", 
+"title": "Parking Regulations", 
+"rule": "Vehicles must only be parked in assigned parking spaces.", 
+"description": "Unauthorized parking may result in warnings or vehicle removal charges." 
+}, 
+{ 
+"id": 5, 
+"category": "Security", 
+"title": "Building Security", 
+"rule": "Residents must ensure all entrance doors and gates are properly closed.", 
+"description": "Do not share access cards, keys, or security codes with unauthorized persons." 
+}, 
+{ 
+"id": 6, 
+"category": "Pets", 
+"title": "Pet Guidelines", 
+"rule": "Pets must be approved by management before being kept on the property.", 
+"description": "Owners are responsible for cleaning after pets and preventing disturbances." 
+}, 
+{ 
+"id": 7, 
+"category": "Maintenance", 
+"title": "Property Maintenance", 
+"rule": "Residents must report maintenance issues as soon as they are noticed.", 
+"description": "Ignoring damages may result in additional repair charges." 
+}, 
+{ 
+"id": 8, 
+"category": "Smoking", 
+"title": "Smoking Restrictions", 
+"rule": "Smoking is prohibited in indoor common areas and restricted zones.", 
+"description": "Violations may result in penalties according to building policies." 
+}, 
+{ 
+"id": 9, 
+"category": "Facilities", 
+"title": "Shared Facility Usage", 
+"rule": "Residents must use shared facilities responsibly and follow posted guidelines.", 
+"description": "Any damage caused by misuse will require payment for repairs." 
+}, 
+{ 
+"id": 10, 
+"category": "Waste Management", 
+"title": "Waste Disposal", 
+"rule": "Residents must separate and dispose of waste according to building rules.", 
+"description": "Improper waste disposal may result in warnings or additional cleaning fees." 
+} 
